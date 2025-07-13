@@ -2072,8 +2072,9 @@ textarea.form-input::-webkit-resizer {
 
 .avatar-image {
   width: 100px;
-  height: 100px; /* Mobile default: square */
+  height: 100px;
   object-fit: cover;
+  object-position: top center; /* Focus more on the face */
   border-radius: 12px;
   border: 2px solid #facc15;
 }
