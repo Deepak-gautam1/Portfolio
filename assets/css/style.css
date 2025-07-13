@@ -350,7 +350,9 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0; /* Prevent avatar from shrinking */
 }
 
 .info-content .name {
@@ -1673,6 +1675,12 @@ textarea.form-input::-webkit-resizer {
   .form-btn ion-icon {
     font-size: 18px;
   }
+  .avatar-image {
+    width: 120px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
 }
 
 /**
@@ -2046,9 +2054,76 @@ textarea.form-input::-webkit-resizer {
   background-color: #fbbf24;
 }
 .avatar-image {
-  width: 80px;
-  height: 220px;
+  width: 100px;
+  height: 100px; /* Mobile default: square */
   object-fit: cover;
   border-radius: 12px;
   border: 2px solid #facc15;
+}
+
+/* ======= Avatar Responsive Fix ======= */
+
+.avatar-box {
+  background: var(--bg-gradient-onyx);
+  border-radius: 12px;
+  overflow: hidden;
+  flex-shrink: 0; /* Prevent avatar from shrinking */
+}
+
+.avatar-image {
+  width: 100px;
+  height: 100px; /* Mobile default: square */
+  object-fit: cover;
+  border-radius: 12px;
+  border: 2px solid #facc15;
+}
+
+/* Desktop / Tablet: Keep rectangle shape */
+@media (min-width: 580px) {
+  .avatar-image {
+    width: 120px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+}
+
+/* ======= Sidebar Layout Fix ======= */
+
+.sidebar {
+  max-height: none; /* Remove fixed height on mobile */
+}
+
+.sidebar-info {
+  display: flex;
+  flex-wrap: wrap; /* Allow content to wrap */
+  gap: 12px; /* Add spacing */
+}
+
+.info-content {
+  flex: 1 1 60%; /* Flexible width for text */
+}
+
+/* Ensure contact list doesn't get cut off */
+.sidebar-info_more {
+  overflow-y: auto; /* Scroll if content exceeds screen */
+  max-height: calc(100vh - 220px); /* Dynamic max height */
+}
+
+/* Optional: Smooth scroll */
+.sidebar-info_more::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-info_more::-webkit-scrollbar-thumb {
+  background-color: #374151;
+  border-radius: 4px;
+}
+
+/* ======= Mobile Padding Fix ======= */
+
+@media (max-width: 579px) {
+  .sidebar-info_more {
+    padding-bottom: 16px;
+  }
 }
