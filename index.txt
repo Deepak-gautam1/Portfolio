@@ -1,30 +1,30 @@
-vCard - Personal Portfolio
+Deepak Gautam - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Deepak Gautam
+Deepak Gautam
+Software Developer
 
 Show Contacts
 
 Email
-richard@example.com
+kd7540520@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9599171623
 
 Birthday
-June 23, 1982
+February 01, 2001
 
 Location
-Sacramento, California, USA
+West Delhi, India
 
 # navbar
 
 About
 Resume
-Portfolio
+Projects
 Blog
 Contact
 
@@ -32,60 +32,48 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a developer and AI enthusiast from India, with a B.Tech in Computer Engineering from NIT Kurukshetra. I specialize in building smart, scalable solutions using Generative AI, web technologies, and data science. I thrive on turning complex ideas into clean, functional, and user-friendly products.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+My role is to build intelligent, user-focused applications that are functional and scalable, yet intuitive and visually engaging. From AI-powered chatbots to seamless full-stack platforms, I ensure each solution reflects innovation and usability. I have experience building GPT-4o-based analytics bots, e-commerce systems, and ML pipelines.
 
 ## service
 
-What i'm doing
+What I'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = AI icon
+AI & Data Solutions
+Build intelligent systems using GPT-4o, Python, and SQL to turn raw data into actionable insights and visualizations.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Full-Stack Development
+End-to-end development of web applications using React, Node.js, MongoDB, and FastAPI.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = product prototype icon
+Product Prototyping
+Rapid prototyping of AI-powered products like chatbots, PDF readers, and recommendation systems.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
+alt = DSA coaching icon
+DSA Coaching
+Helped hundreds of students strengthen their DSA concepts as a Teaching Assistant at Coding Ninjas.
 
 ## testimonials
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Devendra
+Devendra (Manager, Americana)
+Deepak demonstrated exceptional technical skills and ownership while building the GPT-4o powered chatbot at Americana. His ability to translate business needs into AI-driven solutions significantly enhanced decision-making.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
+alt = Mohammed Thattarath
+Mohammed Thattarath (Team Member)
+Working with Deepak on the chatbot project was great. He brought creative ideas, optimized complex SQL generation, and ensured smooth integration with Azure AI Search.
 
 ## clients
 
 Clients
 
 alt = client logo
-
-
+(You can add logos here if needed)
 
 # resume
 
@@ -93,139 +81,109 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+National Institute of Technology, Kurukshetra
+2021 — 2025
+B.Tech in Computer Engineering with a CGPA of 8.14/10. Specialized in AI, web development, and data science.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+School of Excellence, Dwarka, Delhi
+2019 — 2020
+Completed Senior Secondary with 95.2%, CBSE board, PCM + Computer Science.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Data Engineer – Americana Restaurants (Full-Time)
+July 2025 — Present
+Working on large-scale data pipelines, AI analytics tools, and production-grade systems.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Data Engineer Intern – Generative AI, Americana Restaurants
+Jan 2025 — June 2025
+Developed a GPT-4o-powered chatbot for sales analytics using Node.js, Azure AI Search, Python, and SQL.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Teaching Assistant – Coding Ninjas (DSA & C++)
+2023 — 2024
+Assisted 1000+ students in solving DSA problems and building strong algorithmic skills.
 
 My skills
 
-Web design
+Full-Stack Development
+85%
+Generative AI & NLP
 80%
-Graphic design
-70%
-Branding
+Machine Learning
+80%
+Data Structures & Algorithms (DSA)
 90%
-WordPress
-50%
-
-
+Python, SQL & Data Science
+80%
 
 # portfolio
 
-Portfolio
+Projects
 
 All
-Web design
-Applications
 Web development
+Generative AI
+Machine Learning
 
 Select category
 All
-Web design
-Applications
+Web development
+Generative AI
+Machine Learning
+
+alt = Shopper E-Commerce
+Shopper E-Commerce
 Web development
 
-alt = finance
-Finance
-Web development
+alt = GPT-4o Sales Chatbot
+GPT-4o Sales Chatbot
+Generative AI
 
-alt = orizon
-Orizon
-Web development
+alt = QueryPDF
+QueryPDF
+Generative AI
 
-alt = fundo
-Fundo
-Web design
+alt = Food Point
+Food Point (Diet Recommender)
+Machine Learning
 
-alt = brawlhalla
-Brawlhalla
-Applications
+alt = Stock Price Prediction
+Stock Price Prediction
+Machine Learning
 
-alt = dsm.
-DSM.
-Web design
+alt = PUBG Winner Predictor
+PUBG Winner Predictor (Kaggle)
+Machine Learning
 
-alt = metaspark
-MetaSpark
-Web design
+alt = Digit Recognition
+Digit Recognition with VGG16
+Machine Learning
 
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
+alt = Face Recognition
+Face Recognition System
+Machine Learning
 
 # blog
 
 Blog
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+alt = GPT-4o Sales Chatbot Blog
+Generative AI
+Apr 15, 2025
+How I Built a GPT-4o Sales Chatbot Without Writing SQL
+Building a voice-based chatbot using GPT-4o, Azure AI Search, and SQL Server.
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+alt = DSA Journey Blog
+DSA & CP
+Mar 22, 2025
+Solving 1500+ DSA Problems: My Journey
+My experience in competitive programming, mentoring, and TA work.
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
+alt = Kaggle ML Projects Blog
+Machine Learning
+Feb 12, 2025
+Cracking the Top 5% in Kaggle
+Walkthrough of ML projects including stock prediction and digit recognition with VGG16.
 
 # contact
 
